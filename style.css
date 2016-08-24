@@ -3,24 +3,33 @@ video {
   display: block; 
   margin: 0 0 20px 0;
   width: 360px;
+  margin: 0 auto;
+  border-radius: 5px;
 }
 #canvas { 
   margin-top: 20px; 
   border: 1px solid #ccc; 
   display: block;
   width: 360px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+button {
+  display: block;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 10px;
 }
 .demo-intro {
-    padding: 5px 10px;
-    background: #fb678b;
-    margin: 10px 0 20px 0;
-    color: white;
-    text-transform: uppercase;
-    font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  padding: 5px 10px;
+  background: #fb678b;
+  margin: 10px 0 20px 0;
+  color: white;
+  text-transform: uppercase;
+  font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 }
 h1 {
   background: #82cfdf;
   color: #40243b;
   font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 }
-	
