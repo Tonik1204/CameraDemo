@@ -1,8 +1,14 @@
 video { 
-  border: 1px solid #ccc; display: block; margin: 0 0 20px 0; 
+  border: 1px solid #ccc; 
+  display: block; 
+  margin: 0 0 20px 0;
+  width: 360px;
 }
 #canvas { 
-  margin-top: 20px; border: 1px solid #ccc; display: block; 
+  margin-top: 20px; 
+  border: 1px solid #ccc; 
+  display: block;
+  width: 360px;
 }
 .demo-intro {
     padding: 5px 10px;
@@ -12,7 +18,6 @@ video {
     text-transform: uppercase;
     font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 }
-
 h1 {
   background: #82cfdf;
   color: #40243b;
