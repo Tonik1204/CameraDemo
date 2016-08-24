@@ -5,6 +5,7 @@ video {
   width: 360px;
   margin: 0 auto;
   border-radius: 5px;
+  height: 480px;
 }
 #canvas { 
   margin-top: 20px; 
@@ -13,6 +14,7 @@ video {
   width: 360px;
   margin: 0 auto;
   border-radius: 5px;
+  height: 480px;
 }
 button {
   display: block;
